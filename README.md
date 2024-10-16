@@ -34,10 +34,10 @@ Voici un aperçu des compétences et outils que j'utilise dans mes projets :
 
 Voici quelques-uns des projets les plus significatifs auxquels j'ai contribué :
 
-#### 🌱 [**SocialCO2**](https://github.com/Kez0X/SocialCO2)
+#### 🌱 [**SocialCO2**](https://github.com/VLD-dev-team/Social-Co2)
 Réseau social écologique où les utilisateurs peuvent partager des conseils et initiatives pour réduire leur empreinte carbone.  
 **Technologies utilisées :** Node.js, React.js, PostgreSQL, Figma  
-[![Repo Stars](https://img.shields.io/github/stars/Kez0X/SocialCO2?style=social)](https://github.com/Kez0X/SocialCO2) [![Repo Forks](https://img.shields.io/github/forks/Kez0X/SocialCO2?style=social)](https://github.com/Kez0X/SocialCO2)
+[![Repo Stars](https://img.shields.io/github/stars/VLD-dev-team/Social-Co2?style=social)](https://github.com/VLD-dev-team/Social-Co2) [![Repo Forks](https://img.shields.io/github/forks/VLD-dev-team/Social-Co2?style=social)](https://github.com/VLD-dev-team/Social-Co2)
 
 ---
 
@@ -58,7 +58,7 @@ Application d'aide à la prise de parole assistée par IA, offrant des retours i
 #### 💻 [**VLDschool**](https://github.com/Kez0X/VLDschool)
 Plateforme de vente de formations en ligne, intégrant un système de paiement sécurisé via Stripe.  
 **Technologies utilisées :** React.js, Stripe API, MySQL  
-[![Repo Stars](https://img.shields.io/github/stars/Kez0X/VLDschool?style=social)](https://github.com/Kez0X/VLDschool) [![Repo Forks](https://img.shields.io/github/forks/Kez0X/VLDschool?style=social)](https://github.com/Kez0X/VLDschool)
+[![Repo Stars](https://img.shields.io/github/stars/VLD-dev-team/VLDschool?style=social)](https://github.com/VLD-dev-team/VLDschool) [![Repo Forks](https://img.shields.io/github/forks/VLD-dev-team/VLDschool?style=social)](https://github.com/VLD-dev-team/VLDschool)
 
 ---
 
