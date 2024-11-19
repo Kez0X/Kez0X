@@ -8,7 +8,7 @@
 
 ## 🌟 À propos de moi
 
-Je m'appelle **Luka Baudrant**, étudiant en troisième année de **Licence Informatique** à l'Université Lumière Lyon 2 et développeur web **freelance**. Passionné par les nouvelles technologies, j'aime explorer diverses facettes du développement logiciel, allant du **back-end** (Node.js, Flask, SQL) au **front-end** (React.js, Flutter). Je possède également de solides bases en algorithmique et en modélisation UML. 💻
+Je m'appelle **Luka Baudrant**, étudiant en troisième année de **Licence Informatique** à l'Université Lumière Lyon 2 et développeur web **freelance**. Passionné par les nouvelles technologies, j'aime explorer diverses facettes du développement logiciel, allant du **back-end** (Node.js, Flask, SQL, C#) au **front-end** (React.js, Vue.js). Je possède également de solides bases en algorithmique et en modélisation UML. 💻
 
 Actuellement, je suis en recherche d'une **alternance** pour les années scolaires 2025-2026 et 2026-2027 dans le domaine du développement logiciel ou web. Mon objectif est de continuer à perfectionner mes compétences tout en apportant des solutions innovantes aux entreprises avec lesquelles je collabore. 🤝
 
@@ -19,8 +19,8 @@ Voici un aperçu des compétences et outils que j'utilise dans mes projets :
 - **Langages de programmation :**  
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   - Expertise en **Python**, **JavaScript**  
-  - Bonne connaissance en **C++, SQL**, **Bash**
-  - **C#**, **Swift** en cours d'apprentissage
+  - Bonne connaissance en **C++, SQL**, **Bash**,**C#**
+  - **Swift** en cours d'apprentissage
 
 - **Frameworks & Outils :**  
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
@@ -44,14 +44,14 @@ Réseau social écologique où les utilisateurs peuvent partager des conseils et
 #### 🚗 [**Twins Rental**](https://github.com/Kez0X/TwinsRental)
 Une plateforme de location de véhicules en ligne, permettant aux utilisateurs de rechercher, réserver et louer des véhicules.  
 **Technologies utilisées :** Flask, JavaScript, HTML, CSS, MySQL  
-[![Repo Stars](https://img.shields.io/github/stars/Kez0X/TwinsRental?style=social)](https://github.com/Kez0X/TwinsRental) [![Repo Forks](https://img.shields.io/github/forks/Kez0X/TwinsRental?style=social)](https://github.com/Kez0X/TwinsRental)
+Projet privé
 
 ---
 
 #### 🎤 [**Easy Pitch**](https://github.com/Kez0X/EasyPitch)
 Application d'aide à la prise de parole assistée par IA, offrant des retours instantanés pour améliorer les présentations.  
 **Technologies utilisées :** Python, Flask, IA, PostgreSQL  
-[![Repo Stars](https://img.shields.io/github/stars/Kez0X/EasyPitch?style=social)](https://github.com/Kez0X/EasyPitch) [![Repo Forks](https://img.shields.io/github/forks/Kez0X/EasyPitch?style=social)](https://github.com/Kez0X/EasyPitch)
+Projet privé
 
 ---
 
@@ -76,8 +76,6 @@ Plateforme de vente de formations en ligne, intégrant un système de paiement s
 ### 📈 Statistiques GitHub
 
 ![Kez0X's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kez0X&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kez0X&layout=compact&theme=radical)](https://github.com/Kez0X)
 
 ---
 
